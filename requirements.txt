@@ -6,3 +6,5 @@ pytest-flask==1.2.0
 requests==2.31.0
 python-dotenv==1.0.0
 fastapi==0.111.1
+fastapi
+pytest
